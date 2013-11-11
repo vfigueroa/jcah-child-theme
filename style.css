@@ -1,0 +1,20 @@
+/*
+ Theme Name: wp-bootstrap child
+ Theme URI: http://320press.com/wpbs 
+ Description:    WP Bootstrap Child Theme
+ Author:         320press
+ Author URI:     http://320press.com
+ Template:       wp-bootstrap
+ Version:        1.0.0
+*/
+
+@import url("../wp-bootstrap/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+.navbar .brand{
+        color: #fff;
+        text-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 30px rgba(255, 255, 255, 0.125);
+        font-weight: normal !important;
+}
+
